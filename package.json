@@ -1,0 +1,36 @@
+{
+  "name": "node-pdfjs-viewer",
+  "version": "0.0.1",
+  "description": "wrapper for pdf.js viewer to provide it as package",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "index.js",
+    "assets/",
+    "node/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artursgirons/node-pdfjs-viewer.git"
+  },
+  "keywords": [
+    "node",
+    "pdf.js",
+    "viewer"
+  ],
+  "author": {
+    "name": "Arturs Girons",
+    "email": "arturs.girons@gmail.com",
+    "url": "http://www.piip.lv"
+  },
+  "license": "ISC",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/artursgirons/node-pdfjs-viewer/issues"
+  },
+  "homepage": "https://github.com/artursgirons/node-pdfjs-viewer#readme"
+}
