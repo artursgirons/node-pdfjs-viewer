@@ -1,6 +1,6 @@
 {
   "name": "node-pdfjs-viewer",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "description": "wrapper for pdf.js viewer to provide it as package",
   "main": "index.js",
   "dependencies": {},
