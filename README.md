@@ -1,5 +1,6 @@
 ## Wrapper for pdf.js viewer
 Provide pdf.js viewer as package for node
+
 Use PDF.js viewer.html as described here https://github.com/mozilla/pdf.js/wiki/Setup-PDF.js-in-a-website
 
 #### Usage:
